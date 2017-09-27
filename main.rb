@@ -1,3 +1,4 @@
+#Jeffrey Sabo Assignment1
 #makes sure this file has access to the subscriber and set_rev classes
 require_relative 'subscriber'
 require_relative 'set_rev'

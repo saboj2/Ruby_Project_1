@@ -1,3 +1,4 @@
+#Jeffrey Sabo Assignment1
 #makes sure it can access the subscriber class
 require_relative 'subscriber'
 

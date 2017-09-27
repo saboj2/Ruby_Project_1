@@ -1,4 +1,4 @@
-
+#Jeffrey Sabo Assignment1
 #Subsciber Class, holds variables for each subsciber stored in a set array
 class Subscriber
 
